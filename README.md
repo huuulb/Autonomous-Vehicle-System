@@ -18,6 +18,7 @@ A smart 4-wheel car based on STM32F446RE microcontroller that suppports both man
 | Servo Motor | Sensor positioning |
 | SSH1106 OLED | Distance display |
 | 4x DC Motors | Wheel movement |
+| AMS1117 5v | Voltage Conversion |
 | Resistors (1kΩ, 2kΩ) | Circuit protection |
 
 ## 🔧 System Architecture
@@ -48,7 +49,7 @@ Android App ──(Bluetooth)──> HC05 ──> STM32F446RE ──> TB6612 ─
 
 ## 📊 Technical Specifications
 
-- **Operating Voltage**: 5V
+- **Operating Voltage**: 7.5V(motor), 9V(convert to 5v for OLED/HC05)
 - **Communication**: Bluetooth 2.0 (HC05)
 - **Detection Range**: 2cm - 400cm (HC-SR04)
 - **Motor Control**: 4-channel PWM

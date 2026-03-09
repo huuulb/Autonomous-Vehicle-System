@@ -67,4 +67,4 @@ Android App ──(Bluetooth)──> HC05 ──> STM32F446RE ──> TB6612 ─
 ### Obstacle Avoidance
 
 *Autonomous navigation demonstration*
-video insert
+Video demo: (https://drive.google.com/file/d/1Ff6vxBjnDRieE8PwNIdTJG5jqg-TWMgB/view?usp=drive_link)

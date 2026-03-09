@@ -65,6 +65,7 @@ Android App ──(Bluetooth)──> HC05 ──> STM32F446RE ──> TB6612 ─
 - [Google Drive](https://drive.google.com/file/d/1X2vIEITzeRsUi9aAgjjDEpIKbF9JVhJ4/view?usp=drive_link)
 
 ### Obstacle Avoidance
+- 1.Integrated ultrasonic sensor with servo for scanning
+- 2.Displayed real-time distance measurements on an OLED screen for debugging and monitoring
 
-*Autonomous navigation demonstration*
 Video demo: (https://drive.google.com/file/d/1Ff6vxBjnDRieE8PwNIdTJG5jqg-TWMgB/view?usp=drive_link)
